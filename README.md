@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hello 👋
 
-<!--
-**priaraujo88/priaraujo88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Priscila Araujo 🇧🇷
 
-Here are some ideas to get you started:
+I'm UX/UI Design and passionate about solving problems and learning. 
+Always open to new challenges and ready to face changes. 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### "A felicidade da vida depende da qualidade de nossos pensamentos." 🧠
+
+- 📍 From Web living in Rio de Janeiro
+- 💻 Learning about HTML, CSS and JS
+
+Reach me out 👇🏼
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priscilaaraujodsgn/)](https://www.linkedin.com/in/priscilaaraujodsgn/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/pri.g.araujo/)](https://www.instagram.com/pri.g.araujo/) [![Codepen Badge](https://img.shields.io/badge/-Codepen-black?style=flat-square&logo=Codepen&logoColor=white&link=[https://codepen.io/priaraujo](https://codepen.io/priaraujo))](https://codepen.io/priaraujo)
+
+
