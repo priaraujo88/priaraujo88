@@ -2,13 +2,13 @@
 
 My name is Priscila Araujo 🇧🇷
 
+- 📍  From Web living in Rio de Janeiro
+- 💻  Learning about HTML, CSS and JS
+
 I'm UX/UI Design and passionate about solving problems and learning. 
 Always open to new challenges and ready to face changes. 💻
 
 ### "A felicidade da vida depende da qualidade de nossos pensamentos." 🧠
-
-- 📍 From Web living in Rio de Janeiro
-- 💻 Learning about HTML, CSS and JS
 
 Reach me out 👇🏼
 
